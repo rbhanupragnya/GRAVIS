@@ -1,4 +1,4 @@
-# 🔍 Graph Visualizer
+# GRAVIS GRAph VISualizer
 
 An interactive React TypeScript application for visualizing shortest path algorithms: Dijkstra's, Bellman-Ford, and Floyd-Warshall algorithms.
 
